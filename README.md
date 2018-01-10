@@ -1,5 +1,5 @@
 # Kata---a---Day
-Solutions for Codewars programming challenges posted every day.
+Solutions for Codewars programming challenges posted every day. I aim to post solutions for the problems I solve.
 
 view my Codewars profile:
 
