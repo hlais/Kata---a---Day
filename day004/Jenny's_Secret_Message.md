@@ -2,7 +2,7 @@
 
 Day #4: 
 
-Difficulty: 7 kyu
+Difficulty: 8 kyu
 
 Solved: Saturday, January 13th, 2018
 
