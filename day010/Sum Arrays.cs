@@ -17,7 +17,6 @@ namespace CodeWars
 
              }
              return sumOfArrayElements;
-  
         }
     }
 }
