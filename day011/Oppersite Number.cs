@@ -8,7 +8,6 @@ namespace CodeWars
     {
         public static int Opposite(int number)
         {
-
             return number * -1;
         }
     }
