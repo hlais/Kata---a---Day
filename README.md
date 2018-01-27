@@ -1,7 +1,8 @@
-# Kata---a---Day
-Solutions for Codewars programming challenges posted every day. I aim to post solutions for the problems I solve.
+# Kata-A-Day
 
-view my Codewars profile:
+Solutions for Codewars programming challenges completed every day. I aim to post solutions for the problems I solve.
+
+To view my Codewars profile:
 
 https://www.codewars.com/users/hlais
 
