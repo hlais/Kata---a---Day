@@ -4,5 +4,8 @@ Solutions for Codewars programming challenges posted every day. I aim to post so
 view my Codewars profile:
 
 https://www.codewars.com/users/hlais
-![GitHub Logo](/images/logo.png)
+
+
+
+![Isolated Gamerz Logo](https://pbs.twimg.com/profile_images/578919128779636736/tO6FZSCo.png)
 
