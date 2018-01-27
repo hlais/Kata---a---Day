@@ -7,5 +7,5 @@ https://www.codewars.com/users/hlais
 
 
 
-![IsolatedGamerzLogo](pbs.twimg.com/profile_images/578919128779636736/tO6FZSCo.png)
+![IsolatedGamerzLogo](https://pbs.twimg.com/profile_images/578919128779636736/tO6FZSCo.png)
 
