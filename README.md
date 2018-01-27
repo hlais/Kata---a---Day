@@ -7,5 +7,5 @@ https://www.codewars.com/users/hlais
 
 
 
-![IsolatedGamerzLogo](https://pbs.twimg.com/profile_images/578919128779636736/tO6FZSCo.png)
+![PracticeQuote](https://www.brainyquote.com/photos_tr/en/a/antonchekhov/119058/antonchekhov1.jpg)
 
