@@ -20,8 +20,10 @@ namespace CodeWars
 
                 }
             }
-
             return sum;
+            
+            //the code below is cool lambda expressions baby! 
+            //return arr.Where(x => x > 0).Sum();
         }
     }
 }
