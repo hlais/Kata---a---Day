@@ -156,7 +156,7 @@ https://www.codewars.com/users/hlais
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
     <td><a href="day019/Filling%20An%20Array.md">Fill up my Array</a></td>
     <td>Friday, May 6<sup>th</sup>, 2016</td>
-	<td><img src="http://i.imgur.com/7uvWb36.png" alt="java"/></td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>20</td>
