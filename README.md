@@ -21,7 +21,7 @@ https://www.codewars.com/users/hlais
   <tr>
     <td>1</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="java/src/com/michaelmidura/kataday/day001/EightiesKids1.md">80's Kids #1: How Many Licks Does it Take?</a></td>
+    <td><a href="tree/master/day001">80's Kids #1: How Many Licks Does it Take?</a></td>
     <td>Wednesday, April 20<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
