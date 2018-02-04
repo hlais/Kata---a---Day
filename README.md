@@ -133,70 +133,70 @@ https://www.codewars.com/users/hlais
   <tr>
     <td>16</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day016/Count_Positive_Ints_And_Sum_Up_Negative_Ints.md">Vasya - Clerk</a></td>
+    <td><a href="day016/Count_Positive_Ints_And_Sum_Up_Negative_Ints.md">Ignore Negatives only count Positives!</a></td>
     <td>Wednesday, May 4<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>17</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day017/Square%20Elements%20in%20Array%20and%20return%20Sum.md">Gap in Primes</a></td>
+    <td><a href="day017/Square%20Elements%20in%20Array%20and%20return%20Sum.md">Square root and Sum</a></td>
     <td>Wednesday, May 4<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>18</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day018/First%20Char%20into%20conditional%20String%20OutPut.md">Catching Car Mileage Numbers</a></td>
+    <td><a href="day018/First%20Char%20into%20conditional%20String%20OutPut.md">Do you play Banjo?</a></td>
     <td>Saturday, May 7<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>19</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day019/Filling%20An%20Array.md">Roman Numerals Encoder</a></td>
+    <td><a href="day019/Filling%20An%20Array.md">Fill up my Array</a></td>
     <td>Friday, May 6<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/7uvWb36.png" alt="java"/></td>
   </tr>
   <tr>
     <td>20</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day020/Occurrences%20In%20Array.md">Did you mean ...?</a></td>
+    <td><a href="day020/Occurrences%20In%20Array.md">Counting Sheep</a></td>
     <td>Saturday, May 7<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>21</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day021/A%20Needle%20in%20the%20Haystack.md">Valid Braces</a></td>
+    <td><a href="day021/A%20Needle%20in%20the%20Haystack.md">Needle in a HayStack</a></td>
     <td>Saturday, May 7<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>22</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day022/Sum%20without%20highest%20and%20lowest%20number.md">Conway's Game of Life - Unlimited Edition</a></td>
+    <td><a href="day022/Sum%20without%20highest%20and%20lowest%20number.md">SumOfArray without Highest & Lowest</a></td>
     <td>Unsolved</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>23</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day023/Sum%20of%20all%20positive%20int.md">Backwards Read Primes</a></td>
+    <td><a href="day023/Sum%20of%20all%20positive%20int.md">Sum up Positives ignore the rest!</a></td>
     <td>Tuesday, May 10<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>24</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="day024/Max_and_Min_values_of_List.md">Valid Phone Number</a></td>
+    <td><a href="day024/Max_and_Min_values_of_List.md">Finding Max and Min</a></td>
     <td>Wednesday, May 11<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>25</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td><a href="day025/Get%20the%20Middle%20Character.md">Rotate Array</a></td>
+    <td><a href="day025/Get%20the%20Middle%20Character.md">Finding the middle of a string</a></td>
     <td>Friday, May 13<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
