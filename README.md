@@ -22,28 +22,28 @@ https://www.codewars.com/users/hlais
     <td>1</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
     <td><a href="day001/SpaceRemover.md">Space Remover</a></td>
-    <td>Wednesday, April 20<sup>th</sup>, 2016</td>
+    <td>Wednesday, January 10<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>2</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
     <td><a href="day002/Even_or_Odd.md">Is the number Even or Odd?</a></td>
-    <td>Thursday, April 21<sup>st</sup>, 2016</td>
+    <td>Thursday, January 11<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>3</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
     <td><a href="day003/Sort_Array_By_String_Length.md">Sorted Arrary of String by length</a></td>
-    <td>Friday, April 22<sup>nd</sup>, 2016</td>
+    <td>Friday, January 12<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>3</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
     <td><a href="day003/MakeUpperCase.md">Make string Upper Case</a></td>
-    <td>Friday, April 22<sup>nd</sup>, 2016</td>
+    <td>Friday, January 12<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
