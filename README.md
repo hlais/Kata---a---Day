@@ -35,7 +35,7 @@ https://www.codewars.com/users/hlais
   <tr>
     <td>3</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td><a href="java/src/com/michaelmidura/kataday/day003/EightiesKids3.md">80's Kids #3: Punky Brewster's Socks</a></td>
+    <td><a href="hlais/Kata---a---Day/tree/master/day001">80's Kids #3: Punky Brewster's Socks</a></td>
     <td>Friday, April 22<sup>nd</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
