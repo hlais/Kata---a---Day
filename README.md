@@ -28,28 +28,28 @@ https://www.codewars.com/users/hlais
   <tr>
     <td>2</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="Kata---a---Day/day001/">80's Kids #2: Help ALF Find His Spaceship</a></td>
+    <td><a href="day002">80's Kids #2: Help ALF Find His Spaceship</a></td>
     <td>Thursday, April 21<sup>st</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>3</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td><a href="hlais/Kata---a---Day/tree/master/day001">80's Kids #3: Punky Brewster's Socks</a></td>
+    <td><a href="day003">80's Kids #3: Punky Brewster's Socks</a></td>
     <td>Friday, April 22<sup>nd</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>4</td>
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
-    <td><a href="java/src/com/michaelmidura/kataday/day004/EightiesKids4.md">80's Kids #4: Legends of the Hidden Temple</a></td>
+    <td><a href="day003">80's Kids #4: Legends of the Hidden Temple</a></td>
     <td>Saturday, April 23<sup>rd</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   <tr>
     <td>5</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td><a href="java/src/com/michaelmidura/kataday/day005/EightiesKids5.md">80's Kids #5: You Can't Do That on Television</a></td>
+    <td><a href="day004">80's Kids #5: You Can't Do That on Television</a></td>
     <td>Sunday, April 24<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
