@@ -201,9 +201,9 @@ https://www.codewars.com/users/hlais
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
-      <td>27</td>
+      <td>26</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td><a href="day026/Vowel%20Remover.md">Rotate Array</a></td>
+    <td><a href="day026/Vowel%20Remover.md">Trolls Attack</a></td>
     <td>Friday, May 13<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
