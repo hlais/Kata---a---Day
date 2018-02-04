@@ -28,7 +28,7 @@ https://www.codewars.com/users/hlais
   <tr>
     <td>2</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="java/src/com/michaelmidura/kataday/day002/EightiesKids2.md">80's Kids #2: Help ALF Find His Spaceship</a></td>
+    <td><a href="Kata---a---Day/day001/">80's Kids #2: Help ALF Find His Spaceship</a></td>
     <td>Thursday, April 21<sup>st</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
