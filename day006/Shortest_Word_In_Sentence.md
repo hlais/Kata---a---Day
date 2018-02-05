@@ -2,9 +2,9 @@
 
 Day #6: 
 
-Difficulty: 7 kyu
-
-Solved: Monday, January 15th, 2018
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Shortest Word in A Sentence](/day006/Shortest_Word_In_Sentence.cs)
+* <b>Solved:</b> Monday, January 15<sup>th</sup>, 2018
 
 Description:
 
