@@ -2,11 +2,15 @@
 
 Day #27: 
 
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [day027/Casting%20First%20String.cs](day027/Casting%20First%20String.cs)
+* <b>Solved:</b> Wednesday, April 20<sup>th</sup>, 2016
+
 Difficulty: 7 kyu
 
 Solved: Monday, February 5th, 2018
 
-Description:
+<b>Description:</b>
 
 Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word.
 
