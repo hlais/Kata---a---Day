@@ -1,12 +1,10 @@
 ﻿<a href=https://github.com/hlais/Kata---a---Day><b>Back to README</b><a>
 
-Day #3: 
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Make Upper Case](/day003/Sort_Array_By_String_Length.cs)
+* <b>Solved:</b> Friday, January 12<sup>th</sup>, 2018
 
-Difficulty: 8 kyu
-
-Solved: Friday, January 12th, 2018
-
-Description:
+<b>Description:</b>
 
 Write function makeUpperCase.
 
