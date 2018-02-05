@@ -3,12 +3,8 @@
 Day #27: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [027/Casting%20First%20String.cs](Casting%20First%20String.cs)
-* <b>Solved:</b> Wednesday, April 20<sup>th</sup>, 2016
-
-Difficulty: 7 kyu
-
-Solved: Monday, February 5th, 2018
+* <b>Solution Class:</b> [Jaden Smith](Casting%20First%20String.cs)
+* <b>Solved:</b> Monday, February 5<sup>th</sup>, 2018
 
 <b>Description:</b>
 
