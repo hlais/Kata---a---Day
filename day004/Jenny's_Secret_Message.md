@@ -2,7 +2,7 @@
 
 * <b>Difficulty:</b> 8 kyu
 
-* <b>Solution Class:</b> [Make Upper Case](/day003/Sort_Array_By_String_Length.cs)
+* <b>Solution Class:</b> [Jenny's_Secret_Message](/day003/Sort_Array_By_String_Length.cs)
 
 * <b>Solved:</b> Saturday, January 13<sup>th</sup>, 2018
 
