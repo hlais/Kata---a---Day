@@ -1,7 +1,7 @@
 <a href=https://github.com/hlais/Kata---a---Day><b>Back to README</b><a>
 
 * <b>Difficulty:</b> 8 kyu
-* <b>Solution Class:</b> [Space](/SpaceRemover.cs)
+* <b>Solution Class:</b> [Space Remover](/SpaceRemover.cs)
 
 Day #1: 
 
