@@ -2,9 +2,11 @@
 
 Day #2: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Jaden Smith](Casting%20First%20String.cs)
+* <b>Solved:</b> Thursday, January 11<sup>th</sup>, 2018
 
-Solved: Thursday, January 11th, 2018
+<b>Description:</b>
 
 Description:
 
