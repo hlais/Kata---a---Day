@@ -2,7 +2,7 @@
 
 Day #5: 
 
-* <b>Difficulty:</b> 8 kyu
+* <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [Counting Vowels](/day005/Vowel_Count.cs)
 * <b>Solved:</b> Sunday, January 14<sup>th</sup>, 2018
 
