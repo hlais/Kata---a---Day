@@ -1,11 +1,12 @@
 <a href=https://github.com/hlais/Kata---a---Day><b>Back to README</b><a>
 
-Day #1: 
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Space](/SpaceRemover.cs)
 
-Difficulty: 8 kyu
+Day #1: 
 
 Solved: Wednesday, January 10th, 2018
 
-Description:
+<b>Description:</b>
 
 Remove the spaces from the string, then return the resultant string.
