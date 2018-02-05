@@ -2,9 +2,11 @@
 
 Day #3: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Sort Elements by Length](/day003/Sort_Array_By_String_Length.cs)
+* <b>Solved:</b> Friday, January 12<sup>th</sup>, 2018
 
-Solved: Friday, January 12th, 2018
+<b>Description:</b>
 
 Description:
 
