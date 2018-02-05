@@ -208,4 +208,11 @@ https://www.codewars.com/users/hlais
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+    <td>27</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="day027%20and%20OnWards/day027/day027">Trolls Attack</a></td>
+    <td>Monday, February 5<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
