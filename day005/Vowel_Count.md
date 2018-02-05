@@ -2,11 +2,11 @@
 
 Day #5: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Counting Vowels](/day005/Vowel_Count.cs)
+* <b>Solved:</b> Sunday, January 14<sup>th</sup>, 2018
 
-Solved: Sunday, January 14th, 2018
-
-Description:
+<b>Description:</b>
 
 Return the number (count) of vowels in the given string.
 
