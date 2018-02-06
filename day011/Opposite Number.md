@@ -2,11 +2,11 @@
 
 Day #11: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Find the Oppersite](Oppersite%20Number.cs)
+* <b>Solved:</b>Saturday, January 20<sup>th</sup>, 2018
 
-Solved: Saturday, January 20th, 2018
-
-Description:
+<b>Description:</b>
 
 Given a number, find its opposite.
 
