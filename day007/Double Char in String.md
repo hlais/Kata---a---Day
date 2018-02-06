@@ -3,7 +3,7 @@
 Day #7: 
 
 * <b>Difficulty:</b> 8 kyu
-* <b>Solution Class:</b> [Double Impact](day007/Double%20Char.cs)
+* <b>Solution Class:</b> [Double Impact](Double%20Char.cs)
 * <b>Solved:</b>Tuesday, January 16<sup>th</sup>, 2018
 
 <b>Description:</b>
