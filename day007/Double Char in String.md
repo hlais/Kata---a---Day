@@ -2,11 +2,11 @@
 
 Day #7: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Double Impact](day007/Double%20Char.cs)
+* <b>Solved:</b>Tuesday, January 16<sup>th</sup>, 2018
 
-Solved: Tuesday, January 16th, 2018
-
-Description:
+<b>Description:</b>
 
 Given a string, you have to return a string in which each character (case-sensitive) is repeated once.
 
