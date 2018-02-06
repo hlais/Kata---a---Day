@@ -3,7 +3,7 @@
 Day #12: 
 
 * <b>Difficulty:</b> 8 kyu
-* <b>Solution Class:</b> [Double Impact](Reversed%20Sequence.cs)
+* <b>Solution Class:</b> [Reversed sequence from Nth](Reversed%20Sequence.cs)
 * <b>Solved:</b> Sunday, January 21<sup>th</sup>, 2018
 
 <b>Description:</b>
