@@ -2,11 +2,11 @@
 
 Day #9: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Convert Number To String](Convert%20Number%20To%20String.cs)
+* <b>Solved:</b> Thursday, January 18<sup>th</sup>, 2018
 
-Solved: Thursday, January 18th, 2018
-
-Description:
+<b>Description:</b>
 
 We need a function that can transform a number into a string.
 
