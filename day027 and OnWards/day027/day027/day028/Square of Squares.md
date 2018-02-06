@@ -2,11 +2,11 @@
 
 Day #28: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [A square of squares](Is_Square.cs)
+* <b>Solved:</b> Tuesday, February 6<sup>th</sup>, 2018
 
-Solved: Tuesday, February 6th, 2018
-
-Description:
+<b>Description:</b>
 
 A square of squares
 You like building blocks. You especially like building blocks that are squares. And what you even like more, is to arrange them into a square of square building blocks!
