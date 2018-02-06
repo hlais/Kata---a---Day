@@ -213,6 +213,13 @@ https://www.codewars.com/users/hlais
     <td><a href="day027%20and%20OnWards/day027/day027/day027/Casing%20first%20letter%20in%20every%20word.md">Jaden Smith</a></td>
     <td>Monday, February 5<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+	</tr>
+  </tr>
+    <td>28</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="day027%20and%20OnWards/day027/day027/day028/Square%20of%20Squares.md">Square of Square</a></td>
+    <td>Tuesday, February t<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
 </table>
