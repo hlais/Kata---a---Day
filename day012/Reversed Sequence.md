@@ -2,11 +2,11 @@
 
 Day #12: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Double Impact](Reversed%20Sequence.cs)
+* <b>Solved:</b> Sunday, January 21<sup>th</sup>, 2018
 
-Solved: Sunday, January 21th, 2018
-
-Description:
+<b>Description:</b>
 
 Get the number n to return the reversed sequence from n to 1.
 
