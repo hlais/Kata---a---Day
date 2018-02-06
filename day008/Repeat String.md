@@ -2,11 +2,11 @@
 
 Day #8: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [How many time would you like to repeat that String](Repeat%20String.cs)
+* <b>Solved:</b>Wenesday, January 17<sup>th</sup>, 2018
 
-Solved: Wenesday, January 17th, 2018
-
-Description:
+<b>Description:</b>
 
 Write a function called repeatStr which repeats the given string string exactly n times.
 
