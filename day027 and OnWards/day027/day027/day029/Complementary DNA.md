@@ -3,7 +3,7 @@
 Day #29: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [A square of squares](Replacing_Chars_Around.cs)
+* <b>Solution Class:</b> [Complementary DNA](Replacing_Chars_Around.cs)
 * <b>Solved:</b> Wenesday, February 7<sup>th</sup>, 2018
 
 <b>Description:</b>
