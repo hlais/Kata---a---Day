@@ -2,11 +2,11 @@
 
 Day #16: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Ignore Negatives only count Positives!](Count%20Positive%20Ints%20And%20Sum%20Up%20Negative%20Ints.cs)
+* <b>Solved:</b> Thursday , January 25<sup>nd</sup>, 2018
 
-Solved: Thursday , January 25th, 2018
-
-Description:
+<b>Description:</b>
 
 Given an array of integers.
 
@@ -25,4 +25,3 @@ For example:
 
 input int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15} 
 return int[] {10, -65}.
-
