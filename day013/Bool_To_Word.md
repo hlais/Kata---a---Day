@@ -2,11 +2,11 @@
 
 Day #13: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Bool to Word](Bool_To_Word.cs)
+* <b>Solved:</b> Monday , January 22<sup>nd</sup>, 2018
 
-Solved: Monday , January 22nd, 2018
-
-Description:
+<b>Description:</b>
 
 Complete the bool_to_word (PHP: boolToWord ) method.
 
