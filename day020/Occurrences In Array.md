@@ -2,9 +2,11 @@
 
 Day #20: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Counting Sheep](Occurances%20In%20Array.cs)
+* <b>Solved:</b> Monday , January 29<sup>nd</sup>, 2018
 
-Solved: Monday , January 29th, 2018
+<b>Description:</b>
 
 Description:
 Consider an array of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
