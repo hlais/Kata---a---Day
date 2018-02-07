@@ -2,11 +2,11 @@
 
 Day #18: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Do you play Banjo?](Are%20You%20Playing%20Banjo.cs)
+* <b>Solved:</b> Saturday , January 27<sup>th</sup>, 2018
 
-Solved: Saturday , January 27th, 2018
-
-Description:
+<b>Description:</b>
 
 Create a function which answers the question "Are you playing banjo?".
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
