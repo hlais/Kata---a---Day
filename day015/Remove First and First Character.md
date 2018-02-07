@@ -2,11 +2,11 @@
 
 Day #15: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Remove First and Last Character In String](Remove%20First%20and%20Last%20Character%20In%20String.cs)
+* <b>Solved:</b> Wenesday , January 24<sup>th</sup>, 2018
 
-Solved: Wenesday , January 24th, 2018
-
-Description:
+<b>Description:</b>
 
 Your goal is to create a function that removes the first and last characters of a string.
 
