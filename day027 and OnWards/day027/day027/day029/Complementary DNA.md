@@ -2,11 +2,11 @@
 
 Day #29: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [A square of squares](Replacing_Chars_Around.cs)
+* <b>Solved:</b> Wenesday, February 7<sup>th</sup>, 2018
 
-Solved: Wenesday, February 7th, 2018
-
-Description:
+<b>Description:</b>
 
 Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
 
