@@ -2,11 +2,11 @@
 
 Day #14: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Sum of Two Arrays](Elements%20in%20Two%20Arry%20Sum.cs)
+* <b>Solved:</b> Tuesday , January 23<sup>rd</sup>, 2018
 
-Solved: Tuesday , January 23nd, 2018
-
-Description:
+<b>Description:</b>
 
 I want to get the sum of two arrays. Sum of all their elements.
 
