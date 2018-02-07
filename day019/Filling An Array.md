@@ -2,11 +2,11 @@
 
 Day #19: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Fill up my Array](Filling%20An%20Array.cs)
+* <b>Solved:</b> Sunday , January 28<sup>th</sup>, 2018
 
-Solved: Sunday , January 28th, 2018
-
-Description:
+<b>Description:</b>
 
 We want an array, but not just any old array, an array with contents!
 
