@@ -227,6 +227,13 @@ https://www.codewars.com/users/hlais
     <td><a href="day027%20and%20OnWards/day027/day027/day029/Complementary%20DNA.md">Complementary DNA</a></td>
     <td>Wenesday, February 7<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+</tr>
+  </tr>
+    <td>30</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="day027%20and%20OnWards/day027/day027/day030/Highest%20and%20Lowest.md">Complementary DNA</a></td>
+    <td>Wenesday, February 8<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
 </table>
