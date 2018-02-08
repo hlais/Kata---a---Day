@@ -2,11 +2,11 @@
 
 Day #26: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Trolls Attack](Get%20the%20Middle%20Character.cs)
+* <b>Solved:</b>  Sunday, February 4<sup>th</sup>, 2018
 
-Solved: Sunday, February 4th, 2018
-
-Description:
+<b>Description:</b>
 
 Trolls are attacking your comment section!
 
