@@ -2,11 +2,11 @@
 
 Day #25: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Finding the middle of a string](Get%20the%20Middle%20Character.cs)
+* <b>Solved:</b>  Saturday, February 3<sup>rd</sup>, 2018
 
-Solved: Saturday, February 3rd, 2018
-
-Description:
+<b>Description:</b>
 
 You are going to be given a word. Your job is to return the middle character of the word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
 
