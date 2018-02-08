@@ -2,11 +2,11 @@
 
 Day #24: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Finding Max and Min](Max%20and%20Min%20values%20of%20List.cs)
+* <b>Solved:</b>  Friday , February 2<sup>nd</sup>, 2018
 
-Solved: Friday , February 2nd, 2018
-
-Description:
+<b>Description:</b>
 
 Your task is to make two functions, max and min (maximum and minimum in PHP) that take a(n) array/vector of integers list as input and outputs, respectively, the largest and lowest number in that array/vector.
 
