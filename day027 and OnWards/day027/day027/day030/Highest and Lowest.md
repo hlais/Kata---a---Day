@@ -3,7 +3,7 @@
 Day #30: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [Highest and Lowest](day027/day027/day030/Highest%20and%20Lowest.cs)
+* <b>Solution Class:</b> [Highest and Lowest](Highest%20and%20Lowest.cs)
 * <b>Solved:</b> Thursday, February 8<sup>th</sup>, 2018
 
 <b>Description:</b>
