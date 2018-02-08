@@ -2,11 +2,12 @@
 
 Day #21: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Needle in a HayStack](Finding%20String%20In%20Array.cs)
+* <b>Solved:</b> Tuesday , January 30<sup>th</sup>, 2018
 
-Solved: Tuesday , January 30th, 2018
+<b>Description:</b>
 
-Description:
 Can you find the needle in the haystack?
 
 Write a function findNeedle() that takes an array full of junk but containing one "needle"
