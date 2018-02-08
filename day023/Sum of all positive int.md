@@ -2,11 +2,11 @@
 
 Day #23: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [Sum up Positives ignore the rest!](Sum%20Of%20Positive.cs)
+* <b>Solved:</b> Thursday , February 1<sup>st</sup>, 2018
 
-Solved: Thursday , February 1st, 2018
-
-Description:
+<b>Description:</b>
 
 You get an array of numbers, return the sum of all of the positives ones.
 
