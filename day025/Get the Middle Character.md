@@ -3,7 +3,7 @@
 Day #25: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [Finding the middle of a string](Vowel%20Remover.cs)
+* <b>Solution Class:</b> [Finding the middle of a string](Get%20the%20Middle%20Character.cs)
 * <b>Solved:</b>  Saturday, February 3<sup>rd</sup>, 2018
 
 <b>Description:</b>
