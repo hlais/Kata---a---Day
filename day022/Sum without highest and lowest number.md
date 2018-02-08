@@ -2,11 +2,11 @@
 
 Day #22: 
 
-Difficulty: 8 kyu
+* <b>Difficulty:</b> 8 kyu
+* <b>Solution Class:</b> [SumOfArray without Highest & Lowest](Sum%20of%20Array%20Without%20Highest%20and%20Lowest%20Number.cs)
+* <b>Solved:</b>  Wenesday , January 31<sup>st</sup>, 2018
 
-Solved: Wenesday , January 31th, 2018
-
-Description:
+<b>Description:</b>
 
 Sum all the numbers of the array (in F# and Haskell you get a list) except the highest and the lowest element (the value, not the index!).
 (The highest/lowest element is respectively only one element at each edge, even if there are more than one with the same value!)
