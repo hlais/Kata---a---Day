@@ -2,7 +2,7 @@
 
 Day #21: 
 
-* <b>Difficulty:</b> 7 kyu
+* <b>Difficulty:</b> 8 kyu
 * <b>Solution Class:</b> [Needle in a HayStack](Finding%20String%20In%20Array.cs)
 * <b>Solved:</b> Tuesday , January 30<sup>th</sup>, 2018
 
