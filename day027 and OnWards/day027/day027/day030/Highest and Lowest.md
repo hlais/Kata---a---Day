@@ -2,11 +2,11 @@
 
 Day #30: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Highest and Lowest](day027/day027/day030/Highest%20and%20Lowest.cs)
+* <b>Solved:</b> Thursday, February 8<sup>th</sup>, 2018
 
-Solved: Thursday, February 8th, 2018
-
-Description:
+<b>Description:</b>
 
 In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 
