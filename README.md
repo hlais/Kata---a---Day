@@ -244,4 +244,4 @@ https://www.codewars.com/users/hlais
   </tr>
   </tr>
 </table>
-Square%20Every%20Digit.md
+
