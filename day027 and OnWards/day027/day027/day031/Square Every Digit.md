@@ -2,11 +2,11 @@
 
 Day #31: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Square Every Digit](Square%20Every%20Digit.cs)
+* <b>Solved:</b> Friday, February 9 <sup>th</sup>, 2018
 
-Solved: Friday, February 9th, 2018
-
-Description:
+<b>Description:</b>
 
 Welcome. In this kata, you are asked to square every digit of a number.
 
