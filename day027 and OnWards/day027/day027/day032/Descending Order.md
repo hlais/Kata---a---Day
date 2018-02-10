@@ -2,11 +2,11 @@
 
 Day #32: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Descending Order](day027%20and%20OnWards/day027/day027/day032/Descending%20Order.cs)
+* <b>Solved:</b> Saturday, February 10 <sup>th</sup>, 2018
 
-Solved: Saturday, February 10th, 2018
-
-Description:
+<b>Description:</b>
 
 Your task is to make a function that can take any non-negative integer as a argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 
