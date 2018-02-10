@@ -241,6 +241,13 @@ https://www.codewars.com/users/hlais
     <td><a href="day027%20and%20OnWards/day027/day027/day031/Square%20Every%20Digit.md">Sqaure Every Digit</a></td>
     <td>Friday, February 9<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+</tr>
+</tr>
+    <td>32</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="day027%20and%20OnWards/day027/day027/day032/Descending%20Order.md">Descending Order</a></td>
+    <td>Saturday, February 10<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
 </table>
