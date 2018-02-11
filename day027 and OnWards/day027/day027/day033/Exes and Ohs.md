@@ -4,9 +4,11 @@ Day #33:
 
 Difficulty: 7 kyu
 
-Solved: Sunday, February 11th, 2018
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Exes and Ohs](Char%20Count%20to%20Bool.cs)
+* <b>Solved:</b> Sunday, February 11 <sup>th</sup>, 2018
 
-Description:
+<b>Description:</b>
 
 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
 
