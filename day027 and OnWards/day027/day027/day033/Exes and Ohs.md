@@ -2,8 +2,6 @@
 
 Day #33: 
 
-Difficulty: 7 kyu
-
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [Exes and Ohs](Char%20Count%20to%20Bool.cs)
 * <b>Solved:</b> Sunday, February 11 <sup>th</sup>, 2018
