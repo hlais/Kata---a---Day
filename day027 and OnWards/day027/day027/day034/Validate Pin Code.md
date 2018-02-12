@@ -3,7 +3,7 @@
 Day #34: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [Validate Pin Code](Validate%20Pin%20Code.css)
+* <b>Solution Class:</b> [Validate Pin Code](Validate%20Pin%20Code.cs)
 * <b>Solved:</b> Monday, February 12 <sup>th</sup>, 2018
 
 <b>Description:</b>
