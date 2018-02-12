@@ -2,11 +2,11 @@
 
 Day #34: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Validate Pin Code](Validate%20Pin%20Code.css)
+* <b>Solved:</b> Monday, February 12 <sup>th</sup>, 2018
 
-Solved: Monday, February 12th, 2018
-
-Description:
+<b>Description:</b>
 
 ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
 
