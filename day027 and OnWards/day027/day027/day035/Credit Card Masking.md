@@ -2,11 +2,11 @@
 
 Day #35: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Credit Card Masking](Credit%20Card%20Masking.cs)
+* <b>Solved:</b> Tuesday, February 13 <sup>th</sup>, 2018
 
-Solved: Tuesday, February 13th, 2018
-
-Description:
+<b>Description:</b>
 
 Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoulder, you don't want that shown on your screen. Instead, we mask it.
 
