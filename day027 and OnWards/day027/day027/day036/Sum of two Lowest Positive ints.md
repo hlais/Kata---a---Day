@@ -2,11 +2,11 @@
 
 Day #36: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [Credit Card Masking](Credit%20Card%20Masking.cs)
+* <b>Solved:</b> Wenesday, February 14 <sup>th</sup>, 2018
 
-Solved: Wenesday, February 14th, 2018
-
-Description:
+<b>Description:</b>
 
 Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 integers. No floats or empty arrays will be passed.
 
