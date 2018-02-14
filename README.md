@@ -271,4 +271,13 @@ https://www.codewars.com/users/hlais
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+  <td>36</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="day027%20and%20OnWards/day027/day027/day036/Sum%20of%20two%20Lowest%20Positive%20ints.md">Sum of the Lows</a></td>
+    <td> Wenesday, February 14<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
+
+
