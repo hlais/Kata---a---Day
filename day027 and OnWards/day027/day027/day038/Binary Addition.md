@@ -2,11 +2,11 @@
 
 Day #38: 
 
-Difficulty: 7 kyu
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [IsoGrams](Isograms.cs)
+* <b>Solved:</b> Friday, February 16 <sup>th</sup>, 2018
 
-Solved: Friday, February 16th, 2018
-
-Description:
+<b>Description:</b>
 
 Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition.
 
