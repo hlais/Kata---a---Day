@@ -3,7 +3,7 @@
 Day #38: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [IsoGrams](Isograms.cs)
+* <b>Solution Class:</b> [Binary Addition](Binary%20Addition.cs)
 * <b>Solved:</b> Friday, February 16 <sup>th</sup>, 2018
 
 <b>Description:</b>
