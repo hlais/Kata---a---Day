@@ -2,11 +2,12 @@
 
 Day #39: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Multiples_Of_3_Or_5](Multiples%20Of%203%20Or%205.cs)
+* <b>Solved:</b>  Saturday, February 17 <sup>th</sup>, 2018
 
-Solved: Saturday, February 17th, 2018
+<b>Description:</b>
 
-Description:
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
 Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in.
