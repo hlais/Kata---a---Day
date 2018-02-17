@@ -3,7 +3,7 @@
 Day #26: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [Trolls Attack](Get%20the%20Middle%20Character.cs)
+* <b>Solution Class:</b> [Trolls Attack](Vowel%20Remover.cs)
 * <b>Solved:</b>  Sunday, February 4<sup>th</sup>, 2018
 
 <b>Description:</b>
