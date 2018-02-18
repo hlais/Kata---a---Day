@@ -299,4 +299,11 @@ https://www.codewars.com/users/hlais
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+       <td>40</td>
+   <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="day027%20and%20OnWards/day027/day027/day040/Sum%20of%20Digits%20Digital%20Root.md">Sum of Digits Digital Root</a></td>
+    <td> Sunday, February 18<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
