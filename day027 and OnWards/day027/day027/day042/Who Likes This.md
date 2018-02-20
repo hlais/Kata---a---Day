@@ -2,11 +2,9 @@
 
 Day #42: 
 
-Difficulty: 6 kyu
-
-Solved: Tuesday, February 20th, 2018
-
-Description:
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Who Likes This](Likes.cs)
+* <b>Solved:</b> Tuesday, February 2 <sup>th</sup>, 2018
 
 You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
 
