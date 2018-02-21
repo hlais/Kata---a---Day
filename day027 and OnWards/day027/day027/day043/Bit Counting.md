@@ -2,11 +2,11 @@
 
 Day #43: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Bit Counting](Bit%20Counting.cs)
+* <b>Solved:</b> Wenesday, February 21 <sup>st</sup>, 2018
 
-Solved: Wenesday, February 21th, 2018
-
-Description:
+<b>Description:</b>
 
 Write a function that takes an (unsigned) integer as input, and returns the number of bits that are equal to one in the binary representation of that number.
 
