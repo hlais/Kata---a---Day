@@ -2,11 +2,11 @@
 
 Day #44: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Find The Parity Outlier](Find%20The%20Parity%20Outlier.cs)
+* <b>Solved:</b> Thursday, February 22 <sup>th</sup>, 2018
 
-Solved: Thursday, February 22th, 2018
-
-Description:
+<b>Description:</b>
 
 You are given an array (which will have a length of at least 3, but could be very large) containing integers. The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer N. Write a method that takes the array as an argument and returns this "outlier" N.
 
