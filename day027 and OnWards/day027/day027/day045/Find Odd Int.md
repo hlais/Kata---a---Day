@@ -2,11 +2,11 @@
 
 Day #45: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Find Odd Int](Find%20Odd%20Int.cs)
+* <b>Solved:</b> Friday, February 23 <sup>rd</sup>, 2018
 
-Solved: Friday, February 23th, 2018
-
-Description:
+<b>Description:</b>
 
 Given an array, find the int that appears an odd number of times.
 
