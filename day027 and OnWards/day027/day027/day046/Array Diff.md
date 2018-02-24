@@ -2,11 +2,11 @@
 
 Day #46: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Array Diff](ArrayDiff.cs)
+* <b>Solved:</b>  Saturday, February 24 <sup>th</sup>, 2018
 
-Solved: Saturday, February 24th, 2018
-
-Description:
+<b>Description:</b>
 
 Your goal in this kata is to implement an difference function, which subtracts one list from another.
 
