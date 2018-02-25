@@ -348,5 +348,12 @@ https://www.codewars.com/users/hlais
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+              <td>47</td>
+   <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href = "day027%20and%20OnWards/day027/day027/day047/Dub%20Step.md">Dub Step</a></td>
+    <td> Sunday,  February 25<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
