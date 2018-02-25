@@ -2,11 +2,11 @@
 
 Day #47: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Dub Step](Dubstep.cs)
+* <b>Solved:</b>  Sunday, February 25 24 <sup>th</sup>, 2018
 
-Solved: Sunday, February 25th, 2018
-
-Description:
+<b>Description:</b>
 
 Polycarpus works as a DJ in the best Berland nightclub, and he often uses dubstep music in his performance. Recently, he has decided to take a couple of old songs and make dubstep remixes from them.
 
