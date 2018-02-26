@@ -2,11 +2,11 @@
 
 Day #48: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Creatte Phone Number Format](Create%20Phone%20Number.cs)
+* <b>Solved:</b> Monday, February 26 <sup>th</sup>, 2018
 
-Solved: Monday, February 26th, 2018
-
-Description:
+<b>Description:</b>
 
 Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
 
