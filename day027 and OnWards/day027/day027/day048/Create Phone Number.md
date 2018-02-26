@@ -3,7 +3,7 @@
 Day #48: 
 
 * <b>Difficulty:</b> 6 kyu
-* <b>Solution Class:</b> [Creatte Phone Number Format](Create%20Phone%20Number.cs)
+* <b>Solution Class:</b> [Create Phone Number Format](Create%20Phone%20Number.cs)
 * <b>Solved:</b> Monday, February 26 <sup>th</sup>, 2018
 
 <b>Description:</b>
