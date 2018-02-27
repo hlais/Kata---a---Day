@@ -2,11 +2,11 @@
 
 Day #49: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Counting Duplicates](Counting%20Duplicates.cs)
+* <b>Solved:</b> Tuesday, February 27 <sup>th</sup>, 2018
 
-Solved: Tuesday, February 27th, 2018
-
-Description:
+<b>Description:</b>
 
 Count the number of Duplicates
 Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
