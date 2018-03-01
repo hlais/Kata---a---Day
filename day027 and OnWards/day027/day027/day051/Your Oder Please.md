@@ -2,11 +2,11 @@
 
 Day #51: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [IQ Test](IQTest.cs)
+* <b>Solved:</b> Thursday, March <sup>th</sup>, 2018
 
-Solved: Thursday, March, 2018
-
-Description:
+<b>Description:</b>
 
 Your task is to sort a given string. Each word in the String will contain a single number. This number is the position the word should have in the result.
 
