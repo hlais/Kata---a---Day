@@ -3,7 +3,7 @@
 Day #50: 
 
 * <b>Difficulty:</b> 6 kyu
-* <b>Solution Class:</b> [IQ Test](IQTest.cs)
+* <b>Solution Class:</b> [Your Order Please](Your%20order%20please.cs)
 * <b>Solved:</b> Wenesday, February 28 <sup>th</sup>, 2018
 
 <b>Description:</b>
