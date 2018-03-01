@@ -3,8 +3,8 @@
 Day #51: 
 
 * <b>Difficulty:</b> 6 kyu
-* <b>Solution Class:</b> [IQ Test](IQTest.cs)
-* <b>Solved:</b> Thursday, March <sup>th</sup>, 2018
+* <b>Solution Class:</b> [Your Order Please](Your%20order%20please.cs)
+* <b>Solved:</b> Thursday, March 1<sup>st</sup>, 2018
 
 <b>Description:</b>
 
