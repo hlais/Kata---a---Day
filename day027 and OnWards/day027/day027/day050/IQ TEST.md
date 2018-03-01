@@ -2,11 +2,11 @@
 
 Day #50: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [IQ Test](IQTest.cs)
+* <b>Solved:</b> Wenesday, February 28 <sup>th</sup>, 2018
 
-Solved: Wenesday, February 28th, 2018
-
-Description:
+<b>Description:</b>
 
 Bob is preparing to pass IQ test. The most frequent task in this test is to find out which one of the given numbers differs from the others. Bob observed that one number usually differs from the others in evenness. Help Bob — to check his answers, he needs a program that among the given numbers finds one that is different in evenness, and return a position of this number.
 
