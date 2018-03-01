@@ -4,7 +4,7 @@ Day #51:
 
 Difficulty: 6 kyu
 
-Solved: Wenesday, February 28th, 2018
+Solved: Thursday, March, 2018
 
 Description:
 
