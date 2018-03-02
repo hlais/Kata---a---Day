@@ -2,9 +2,13 @@
 
 Day #52: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Persistent](Persistent%20Bugger.cs)
+* <b>Solved:</b>  Friday, March 2<sup>nd</sup>, 2018
 
-Solved: Friday, March 2nd, 2018
+<b>Description:</b>
+
+Solved:nd, 2018
 
 Description:
 
