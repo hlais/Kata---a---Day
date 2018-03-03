@@ -390,5 +390,12 @@ https://www.codewars.com/users/hlais
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+                      <td>53</td>
+   <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href = "day027%20and%20OnWards/day027/day027/day053/Replace%20Alphaphet%20with%20numbers.md"> Replace Alphaphet with numbers</a></td>
+    <td> Saturday,  March 3<sup>rd</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
