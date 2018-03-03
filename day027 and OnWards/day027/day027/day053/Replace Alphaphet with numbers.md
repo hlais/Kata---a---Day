@@ -3,7 +3,7 @@
 Day #53: 
 
 * <b>Difficulty:</b> 6 kyu
-* <b>Solution Class:</b> [Persistent](Persistent%20Bugger.cs)
+* <b>Solution Class:</b> [Replace Alphapet Positions](ReplaceAlphapetPostions.cs)
 * <b>Solved:</b>  Saturday, March 3<sup>rd</sup>, 2018
 
 <b>Description:</b>
