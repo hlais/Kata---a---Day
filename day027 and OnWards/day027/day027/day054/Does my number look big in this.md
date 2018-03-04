@@ -2,11 +2,11 @@
 
 Day #54: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Does my number look big in this](Does%20my%20number%20look%20big%20in%20this.cs)
+* <b>Solved:</b>  Sunday, March 4<sup>th</sup>, 2018
 
-Solved: Sunday, March 4th, 2018
-
-Description:
+<b>Description:</b>
 
 A Narcissistic Number is a number which is the sum of its own digits, each raised to the power of the number of digits.
 
@@ -21,3 +21,5 @@ The Challenge:
 Your code must return true or false depending upon whether the given number is a Narcissistic number.
 
 Error checking for text strings or other invalid inputs is not required, only valid integers will be passed into the function.
+
+
