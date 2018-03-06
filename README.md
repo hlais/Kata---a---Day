@@ -405,7 +405,13 @@ https://www.codewars.com/users/hlais
   </tr>
    <td>55</td>
   <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
-  <td><a href = "day027%20and%20OnWards/day027/day027/day055/Highest%20Scoring%20Word.md">Highest Scoring Word</a></td> <td> Sunday,  March 5<sup>th</sup>, 2018</td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day055/Highest%20Scoring%20Word.md">Highest Scoring Word</a></td> <td> Monday,  March 5<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+   <td>56</td>
+  <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day056/Find%20the%20missing%20letter.md">Find The Missing Letter</a></td> <td> Tuesday,  March 6<sup>th</sup>, 2018</td>
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
