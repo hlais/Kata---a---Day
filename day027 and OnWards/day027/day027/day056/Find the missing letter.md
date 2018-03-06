@@ -2,11 +2,11 @@
 
 Day #56: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Find the missing letter](Find%20the%20missing%20letter.cs)
+* <b>Solved:</b>  Tuesday, March 6<sup>th</sup>, 2018
 
-Solved: Tuesday, March 6th, 2018
-
-Description:
+<b>Description:</b>
 
 #Find the missing letter
 
