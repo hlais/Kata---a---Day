@@ -2,11 +2,11 @@
 
 Day #57: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Simple Pig Latin](Simple%20Pig%20Latin.cs)
+* <b>Solved:</b> Wenesday, March 7<sup>th</sup>, 2018
 
-Solved: Wenesday, March 7th, 2018
-
-Description:
+<b>Description:</b>
 
 Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
 
