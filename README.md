@@ -415,5 +415,11 @@ https://www.codewars.com/users/hlais
 	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+    <td>57</td>
+  <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day057/Simple%20Pig%20Latin.md">Simple Pig Latin</a></td> <td> Wenesday,  March 7<sup>th</sup>, 2018</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
