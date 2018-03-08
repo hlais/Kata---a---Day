@@ -2,9 +2,11 @@
 
 Day #58: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Human_Readable_Time](Human%20Readable%20Time.cs)
+* <b>Solved:</b> Thursday, March 8<sup>th</sup>, 2018
 
-Solved: Thursday, March 8th, 2018
+<b>Description:</b>
 
 Write a function, which takes a non-negative integer (seconds) as input and returns the time in a human-readable format (HH:MM:SS)
 
