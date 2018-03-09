@@ -2,6 +2,11 @@
 
 Day #59: 
 
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Convert String To Camel Case](Convert%20string%20to%20camel%20case.cs)
+* <b>Solved:</b> Friday, March 9<sup>th</sup>, 2018
+
+<b>Description:</b>
 Difficulty: 5 kyu
 
 Solved: Friday, March 9th, 2018
