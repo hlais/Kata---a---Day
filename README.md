@@ -429,5 +429,12 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+      <td>59</td>
+  <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day059/Convert%20String%20to%20Camel%20Case.md">Convert String to Camel Case</a></td> 
+  <td> Friday,  March 9<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
