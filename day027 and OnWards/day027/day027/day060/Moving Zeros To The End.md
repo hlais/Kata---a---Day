@@ -2,9 +2,11 @@
 
 Day #60: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Moving Zeros To The End](Moving%20Zeros%20To%20The%20End.cs)
+* <b>Solved:</b> Saturday, March 10<sup>th</sup>, 2018
 
-Solved: Saturday, March 10th, 2018
+<b>Description:</b>
 
 Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 
