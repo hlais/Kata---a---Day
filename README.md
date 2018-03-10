@@ -436,5 +436,12 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+       <td>60</td>
+  <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day060/Moving%20Zeros%20To%20The%20End.md">Moving Zeros to the End</a></td> 
+  <td> Saturday,  March 10<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
