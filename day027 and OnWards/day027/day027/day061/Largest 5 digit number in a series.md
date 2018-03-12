@@ -2,9 +2,11 @@
 
 Day #61: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Largest Digit](Largest%205%20digit.cs)
+* <b>Solved:</b> Sunday, March 11<sup>th</sup>, 2018
 
-Solved: Sunday, March 11th, 2018
+<b>Description:</b>
 
 In the following 6 digit number:
 
