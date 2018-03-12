@@ -443,5 +443,19 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+         <td>61</td>
+  <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day061/Largest%205%20digit%20number%20in%20a%20series.md">Largest Digits</a></td> 
+  <td> Sunday,  March 11<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+         <td>62</td>
+  <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day062/Where%20my%20anagrams%20at.md">Where my Anagrams at?</a></td> 
+  <td> Monday,  March 12<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
