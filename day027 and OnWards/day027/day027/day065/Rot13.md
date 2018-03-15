@@ -2,9 +2,11 @@
 
 Day #65: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [ROT 13](Rot13.cs)
+* <b>Solved:</b> Thursday, March 15<sup>th</sup>, 2018
 
-Solved: Thursday, March 15th, 2018
+<b>Description:</b>
 
 ROT13 is a simple letter substitution cipher that replaces a letter with the letter 13 letters after it in the alphabet. ROT13 is an example of the Caesar cipher.
 
