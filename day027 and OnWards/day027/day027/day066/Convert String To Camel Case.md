@@ -3,7 +3,7 @@
 Day #66: 
 
 * <b>Difficulty:</b> 5 kyu
-* <b>Solution Class:</b> [ROT 13](Rot13.cs)
+* <b>Solution Class:</b> [Break Camel Case](Convert%20string%20to%20camel%20case.cs)
 * <b>Solved:</b> Friday, March 16<sup>th</sup>, 2018
 
 <b>Description:</b>
