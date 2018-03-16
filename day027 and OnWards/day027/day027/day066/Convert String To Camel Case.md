@@ -2,9 +2,11 @@
 
 Day #66: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [ROT 13](Rot13.cs)
+* <b>Solved:</b> Friday, March 16<sup>th</sup>, 2018
 
-Solved: Friday, March 16th, 2018
+<b>Description:</b>
 
 Complete the solution so that the function will break up camel casing, using a space between words.
 
