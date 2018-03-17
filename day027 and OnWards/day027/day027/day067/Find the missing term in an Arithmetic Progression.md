@@ -2,9 +2,11 @@
 
 Day #67: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Arithmetic Progress](Arithmetic%20Progression.cs)
+* <b>Solved:</b> Saturday, March 17<sup>th</sup>, 2018
 
-Solved: Saturday, March 17th, 2018
+<b>Description:</b>
 
 An Arithmetic Progression is defined as one in which there is a constant difference between the consecutive terms of a given series of numbers. You are provided with consecutive elements of an Arithmetic Progression. There is however one hitch: exactly one term from the original series is missing from the set of numbers which have been given to you. The rest of the given series is the same as the original AP. Find the missing term.
 
