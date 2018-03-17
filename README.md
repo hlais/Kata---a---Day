@@ -485,6 +485,12 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+   <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day067/Find%20the%20missing%20term%20in%20an%20Arithmetic%20Progression.md">Find the missing tem in an Arithemtic Progression</a></td> 
+  <td> Saturday,  March 17<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
 
