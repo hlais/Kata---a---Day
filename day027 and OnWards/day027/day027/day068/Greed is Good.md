@@ -2,9 +2,11 @@
 
 Day #68: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Greed is Good](Greed%20Is%20Good.cs)
+* <b>Solved:</b> Sunday, March 18<sup>th</sup>, 2018
 
-Solved: Sunday, March 18th, 2018
+<b>Description:</b>
 
 Greed is a dice game played with five six-sided dice. Your mission, should you choose to accept it, is to score a throw according to these rules. You will always be given an array with five six-sided dice values.
 
