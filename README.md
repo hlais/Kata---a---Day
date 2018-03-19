@@ -478,24 +478,31 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
- <td>65</td>
+ <td>66</td>
   <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day066/Convert%20String%20To%20Camel%20Case.md">Break Camel Case</a></td> 
   <td> Friday,  March 16<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
-<td>65</td>
+<td>67</td>
   <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day067/Find%20the%20missing%20term%20in%20an%20Arithmetic%20Progression.md">Find the missing tem in an Arithemtic Progression</a></td> 
   <td> Saturday,  March 17<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
- <td>66</td>
+ <td>68</td>
   <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day068/Greed%20is%20Good.md">Greed is Good</a></td> 
   <td> Sunday,  March 18<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+  <td>69</td>
+  <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day069/Convert%20PascalCase%20string%20into%20snake_case.md">Pascal To Snake</a></td> 
+  <td> Monday,  March 19<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
