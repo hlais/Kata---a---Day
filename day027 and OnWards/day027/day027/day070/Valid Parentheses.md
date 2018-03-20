@@ -2,9 +2,12 @@
 
 Day #70: 
 
-Difficulty: 5 kyu
+* <b>Difficulty:</b> 5 kyu
+* <b>Solution Class:</b> [Valid Parentheses](Valid%20Parentheses.cs)
+* <b>Solved:</b> Tuesday, March 20<sup>th</sup>, 2018
 
-Solved: Tuesday, March 20th, 2018
+<b>Description:</b>
+
 
 Write a function called that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
 
