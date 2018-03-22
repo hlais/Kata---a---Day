@@ -2,9 +2,11 @@
 
 Day #72: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Validate Credit Card Number](Validate%20Credit%20Card%20Number.cs)
+* <b>Solved:</b> Thursday, March 22<sup>nd</sup>, 2018
 
-Solved: Thursday, March 22th, 2018
+<b>Description:</b>
 
 In this Kata, you will implement the Luhn Algorithm, which is used to help validate credit card numbers.
 
