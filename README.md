@@ -547,6 +547,13 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+  <td>75</td>
+  <td><img src="http://i.imgur.com/Sk20Fhz.png" alt="4 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day076/Middle%20Permutation.md">Middle Permutation</a></td> 
+  <td> Monday,  March 26<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
 
