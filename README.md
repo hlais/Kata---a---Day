@@ -554,6 +554,13 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+      <td>76</td>
+  <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day077/Decode%20Morse%20Code.md">Decode Morse Codet</a></td> 
+  <td> Sunday,  March 25<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
 
