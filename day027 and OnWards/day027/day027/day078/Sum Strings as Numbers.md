@@ -4,7 +4,11 @@ Day #78:
 
 Difficulty: 4 kyu
 
-Solved: Wenesday, March 28th, 2018
+Solved: th, 2018
+
+* <b>Difficulty:</b> 6 kyu
+* <b>Solution Class:</b> [Sum Strings](Sum%20Strings.css)
+* <b>Solved:</b> Wenesday, March 28<sup>th</sup>, 2018
 
 Given the string representations of two integers, return the string representation of the sum of those integers.
 
