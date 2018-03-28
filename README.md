@@ -561,6 +561,13 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+ <td>75</td>
+  <td><img src="http://i.imgur.com/Sk20Fhz.png" alt="4 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day078/Sum%20Strings%20as%20Numbers.md">Sum String As Numbers</a></td> 
+  <td> Wenesday,  March 27<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
 
