@@ -4,7 +4,7 @@ Day #78:
 
 Difficulty: 4 kyu
 
-Solved: th, 2018
+Solved: 28th, 2018
 
 * <b>Difficulty:</b> 6 kyu
 * <b>Solution Class:</b> [Sum Strings](Sum%20Strings.cs)
