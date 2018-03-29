@@ -557,21 +557,21 @@ https://www.codewars.com/users/hlais
       <td>77</td>
   <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day077/Decode%20Morse%20Code.md">Decode Morse Codet</a></td> 
-  <td> Sunday,  March 25<sup>th</sup>, 2018</td>
+  <td> Tuesday,  March 27<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
  <td>78</td>
   <td><img src="http://i.imgur.com/Sk20Fhz.png" alt="4 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day078/Sum%20Strings%20as%20Numbers.md">Sum String As Numbers</a></td> 
-  <td> Wenesday,  March 27<sup>th</sup>, 2018</td>
+  <td> Wenesday,  March 28<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
    <td>79</td>
   <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day079/Occuring%20Characters.md">Parse and Count</a></td> 
-  <td> Sunday,  March 25<sup>th</sup>, 2018</td>
+  <td> Thursday,  March 29<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
