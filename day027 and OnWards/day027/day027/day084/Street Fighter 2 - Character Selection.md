@@ -3,7 +3,7 @@
 Day #84: 
 
 * <b>Difficulty:</b>6 kyu
-* <b>Solution Class:</b> [Unique Sum](Unique_Sum.cs)
+* <b>Solution Class:</b> [Street Fighter Character Selection](day027%20and%20OnWards/day027/day027/day084/Street%20Fighter%20Character%20Selection.cs)
 * <b>Solved:</b> Tuesday, April 3<sup>rd</sup>, 2018
 
 
