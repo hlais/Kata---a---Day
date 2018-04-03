@@ -6,9 +6,6 @@ Day #80:
 * <b>Solution Class:</b> [Find the unique number](Find%20the%20unique%20number.cs)
 * <b>Solved:</b> Friday, March 30<sup>th</sup>, 2018
 
-Solved: th, 2018
-
-
 There is an array with some numbers. All numbers are equal except for one. Try to find it!
 
 findUniq([ 1, 1, 1, 2, 1, 1 ]) === 2
