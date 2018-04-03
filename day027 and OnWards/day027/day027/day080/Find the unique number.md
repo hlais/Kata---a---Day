@@ -3,7 +3,7 @@
 Day #80: 
 
 * <b>Difficulty:</b> 6 kyu
-* <b>Solution Class:</b> [Occuring Characters](Occuring%20Characters.cs)
+* <b>Solution Class:</b> [Find the unique number](Find%20the%20unique%20number.cs)
 * <b>Solved:</b> Friday, March 30<sup>th</sup>, 2018
 
 Solved: th, 2018
