@@ -2,14 +2,17 @@
 
 Day #84: 
 
-Difficulty: 6 kyu
+* <b>Difficulty:</b>6 kyu
+* <b>Solution Class:</b> [Unique Sum](Unique_Sum.cs)
+* <b>Solved:</b> Tuesday, April 3<sup>rd</sup>, 2018
 
-Solved: Tuesday, April 3rd, 2018
 
 
 Short Intro
 
 Some of you might remember spending afternoons playing Street Fighter 2 in some Arcade back in the 90s or emulating it nowadays with the numerous emulators for retro consoles.
+
+![Character Selection](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.fightersgeneration.com%2Fnp5%2Fgm%2Fsf2ce-s2.jpg&f=1)
 
 Can you solve this kata? Suuure-You-Can!
 
