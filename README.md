@@ -575,6 +575,34 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+  <td>80</td>
+  <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day080/Find%20the%20unique%20number.md">Find the unique Number</a></td> 
+  <td> Friday,  March 30<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+  <td>81</td>
+  <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day081/Sum%20Mixed%20Array.md">Sum of Mixed Array</a></td> 
+  <td> Saturday,  March 31<sup>st</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+  <td>82</td>
+  <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day082/Linked%20List%20to%20String.md">Linked List to String</a></td> 
+  <td> Sunday,  April 1<sup>st</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+ <td>82</td>
+  <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day083/Unique%20Sum.md">Unique Sum</a></td> 
+  <td> Monday,  April 2<sup>nd</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
 
