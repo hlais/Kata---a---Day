@@ -6,7 +6,7 @@ Day #84:
 
 * <b>Difficulty:</b>6 kyu
 * <b>Solution Class:</b> [Nth Fibonacci](NthFibonacci.cs)
-* <b>Solved:</b> Tuesday, April 10<sup>rd</sup>, 2018
+* <b>Solved:</b> Tuesday, April 10<sup>th</sup>, 2018
 
 I love Fibonacci numbers in general, but I must admit I love some more than others.
 
