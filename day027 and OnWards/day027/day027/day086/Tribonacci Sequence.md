@@ -3,7 +3,7 @@
 Day #86: 
 
 * <b>Difficulty:</b>6 kyu
-* <b>Solution Class:</b> [Tribonacci Sequence](Tribonacci%20Sequence.txt)
+* <b>Solution Class:</b> [Tribonacci Sequence](TribonacciSequence.cs)
 * <b>Solved:</b> Wednesday, April 11<sup>th</sup>, 2018
 
 Well met with Fibonacci bigger brother, AKA Tribonacci.
