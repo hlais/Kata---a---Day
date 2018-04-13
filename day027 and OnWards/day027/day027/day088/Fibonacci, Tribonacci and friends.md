@@ -3,7 +3,7 @@
 Day #88: 
 
 * <b>Difficulty:</b>6 kyu
-* <b>Solution Class:</b> [Fibonacci](Fibonacci.cs)
+* <b>Solution Class:</b> [Fibonacci And Friends](FibonacciAndFriends.cs)
 * <b>Solved:</b> Friday, April 13<sup>th</sup>, 2018
 
 If you have completed the Tribonacci sequence kata, you would know by now that mister Fibonacci has at least a bigger brother. If not, give it a quick look to get how things work.
