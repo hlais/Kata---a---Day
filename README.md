@@ -631,10 +631,17 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
-   <td>87</td>
+   <td>88</td>
 <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day088/Fibonacci,%20Tribonacci%20and%20friends.md">Fibonacci And Friends</a></td> 
   <td> Friday, April 13<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+     <td>89</td>
+<td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day089/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times.md">Delete Nth Occurrences</a></td> 
+  <td> Saturday, April 14<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
