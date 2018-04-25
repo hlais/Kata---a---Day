@@ -2,8 +2,6 @@
 
 Day #97: 
 
-Difficulty: 5 kyu
-
 * <b>Difficulty:</b>5 kyu
 * <b>Solution Class:</b> [Tic Tac Toe Checker](Tic-Tac-Toe%20Checker.cs)
 * <b>Solved:</b> Wenesday, April 25<sup>th</sup>, 2018
