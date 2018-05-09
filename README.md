@@ -728,10 +728,17 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
- <td>101</td>
+ <td>102</td>
 <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day102/TwoToOne.md">Two To One</a></td> 
   <td> Sunday, May 6<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+  <td>103</td>
+<td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day103/Categorize%20New%20Member.md">Categorize New Member</a></td> 
+  <td> Monday, May 7<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
