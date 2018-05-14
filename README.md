@@ -756,11 +756,18 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
-     <td>105</td>
+     <td>106</td>
 <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day106/A%20disguised%20sequence.md">A Disguised Sequence</a></td> 
   <td> Saturday, May 12<sup>th</sup>, 2018</td>
   <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+     <td>108</td>
+<td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day108/Odd%20or%20Even.md">Odd or Even?</a></td> 
+  <td> Monday, May 14<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
 </table>
