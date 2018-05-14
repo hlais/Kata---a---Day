@@ -763,10 +763,10 @@ https://www.codewars.com/users/hlais
   <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
-  <td>106</td>
+  <td>107</td>
 <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day107/Find%20the%20divisors!.md">Find the Divisors!</a></td> 
-  <td> Saturday, May 12<sup>th</sup>, 2018</td>
+  <td> Sunday, May 13<sup>th</sup>, 2018</td>
   <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
