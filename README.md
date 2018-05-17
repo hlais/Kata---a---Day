@@ -784,6 +784,13 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+   <td>109</td>
+<td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day110/Integers%20Recreation%20One.md">Integers: Recreation Onee</a></td> 
+  <td> Tuesday, May 15<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
 
