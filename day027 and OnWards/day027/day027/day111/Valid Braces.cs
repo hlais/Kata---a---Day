@@ -3,7 +3,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace CodeWars6Kata
 {
@@ -33,8 +32,6 @@ namespace CodeWars6Kata
                         return false;
                 }
             }
-               
-            
             if (stackBraces.Count == 0)
             {
                 return true;
@@ -46,10 +43,6 @@ namespace CodeWars6Kata
         {
             return firstChar == '{' && secondChar == '}' || firstChar == '[' && secondChar == ']' ||
                     firstChar == '(' && secondChar == ')' ? true : false;
-
         }
-
     }
 }
-    
-
