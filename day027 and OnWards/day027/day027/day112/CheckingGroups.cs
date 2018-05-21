@@ -7,18 +7,20 @@ namespace CodeWars6Kata
 {
     class CheckingGroups
     {
-        public static bool validBraces(String braces)
+        public static bool validBraces(String input)
         {
-            string prev = "";
-            while (str.Length != prev.Length)
+             string empty = "";
+
+            while (input.Length != empty.Length)
             {
-                prev = str;
-                str = str
-                    .Replace("()", String.Empty)
-                    .Replace("[]", String.Empty)
-                    .Replace("{}", String.Empty);
+                empty = input;
+
+                input =input.Replace("{}", string.Empty)
+                            .Replace("()", string.Empty)
+                            .Replace("[]", string.Empty);
+
             }
-            return (str.Length == 0);
+            return input.Length == 0;
 
         }
 
