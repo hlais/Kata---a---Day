@@ -798,10 +798,17 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
- <td>111</td>
+ <td>112</td>
 <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day112/Checking%20Groups.md">Checking Groups</a></td> 
   <td> Monday, May 21<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+  <td>113</td>
+<td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day113/NextPerfectSquare.md">Find the next square!</a></td> 
+  <td> Tuesday, May 22<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
