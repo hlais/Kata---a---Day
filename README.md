@@ -856,7 +856,7 @@ https://www.codewars.com/users/hlais
   </tr>
  <td>124</td>
  <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-  <td><a href = "day027%20and%20OnWards/day027/day027/day124/Adults%20Only.md">Transform to prime</a></td> 
+  <td><a href = "day027%20and%20OnWards/day027/day027/day124/Adults%20Only.md">Adults Only</a></td> 
   <td> Saturday, June 2<sup>th</sup>, 2018</td>
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
   </tr>
