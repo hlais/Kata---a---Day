@@ -856,14 +856,14 @@ https://www.codewars.com/users/hlais
   </tr>
    <td>120</td>
 <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
-  <td><a href = "day027%20and%20OnWards/day027/day027/day119/Transform%20To%20Prime.md">Transform to prime</a></td> 
+  <td><a href = "day027%20and%20OnWards/day027/day027/day120/Surrounding%20Primes%20For%20Value.md">Surrounding Primes</a></td> 
   <td> Tuesday, May 29<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
  <td>124</td>
  <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-  <td><a href = "day027%20and%20OnWards/day027/day027/day120/Surrounding%20Primes%20For%20Value.md">Surrounding Primes</a></td> 
+  <td><a href = "day027%20and%20OnWards/day027/day027/day120/Surrounding%20Primes%20For%20Value.md">Adults Only</a></td> 
   <td> Saturday, June 2<sup>th</sup>, 2018</td>
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
   </tr>
