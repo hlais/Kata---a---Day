@@ -875,6 +875,13 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+   <td>122</td>
+<td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+ <td><a href = "day027%20and%20OnWards/day027/day027/day122/Highest%20Rank%20Number%20In%20An%20Arry.md">Highest Rank Number In Array</a></td> 
+  <td> Thursday, May 31<sup>st</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
  <td>124</td>
  <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day124/Adults%20Only.md">Adults Only</a></td> 
