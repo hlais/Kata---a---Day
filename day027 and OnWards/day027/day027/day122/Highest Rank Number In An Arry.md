@@ -1,6 +1,6 @@
 ﻿<a href=https://github.com/hlais/Kata---a---Day><b>Back to README</b><a>
 
-Day #121: 
+Day #122: 
 
 * <b>Difficulty:</b>6 kyu
 * <b>Solution Class:</b> [Highest Number in arry](MostFequentInArray.cs)
