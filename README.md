@@ -882,6 +882,13 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+   <td>123</td>
+ <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day123/MOD/MOD.md">MOD</a></td> 
+  <td> Friday, June 1<sup>st</sup>, 2018</td>
+<td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
+  </tr>
+  </tr>
     <td>123</td>
 <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
  <td><a href = "day027%20and%20OnWards/day027/day027/day123/Sum%20of%20Odd%20Numbers.md">Sum Of Odd Numbers</a></td> 
