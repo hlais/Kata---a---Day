@@ -903,6 +903,20 @@ https://www.codewars.com/users/hlais
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
   </tr>
   </tr>
+     <td>124</td>
+<td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+ <td><a href = "day027%20and%20OnWards/day027/day027/day124/StringCalculator/String%20Calculator.md">String Calculator</a></td> 
+  <td> Saturday, June 2<sup>st</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+      <td>124</td>
+<td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+ <td><a href = "day027%20and%20OnWards/day027/day027/day124/FizzBuzz/FizzBuzz.md">Fizz Buzz Array</a></td> 
+  <td> Saturday, June 2<sup>st</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
 </table>
 
 
