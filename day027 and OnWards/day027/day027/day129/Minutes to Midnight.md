@@ -3,7 +3,7 @@
 Day #129: 
 
 * <b>Difficulty:</b>6 kyu
-* <b>Solution Class:</b> [Minutes to Midnight](Minutes%to%Midnight.cs)
+* <b>Solution Class:</b> [Minutes to Midnight](Minutes%20to%20Midnight.cs)
 * <b>Solved:</b> Friday, June 8<sup>th</sup>, 2018
 
 Details:
