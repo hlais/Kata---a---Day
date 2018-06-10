@@ -4,7 +4,7 @@ Day #130:
 
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [Nth Smallest Element](NthSmallestInArray.cs)
-* <b>Solved:</b> Friday, June 8<sup>th</sup>, 2018
+* <b>Solved:</b> Sunday, June 10<sup>th</sup>, 2018
 
 Details:
 
