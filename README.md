@@ -980,6 +980,13 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
+ <td>132</td>
+ <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+  <td><a href = "day027%20and%20OnWards/day027/day027/day132/Simple%20SUM/Simple%20Sum.md">Candian Boarder</a></td> 
+  <td> Thursday, June 14<sup>th</sup>, 2018</td>
+<td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
+  </tr>
+  </tr>
  
   </table>
 
