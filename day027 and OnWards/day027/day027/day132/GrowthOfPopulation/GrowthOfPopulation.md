@@ -1,9 +1,9 @@
 ﻿<a href=https://github.com/hlais/Kata---a---Day><b>Back to README</b><a>
 
-Day #131: 
+Day #132: 
 
 * <b>Difficulty:</b> 7 kyu
-* <b>Solution Class:</b> [Growth of a Population](Growth%20of%20a%20Population.cs)
+* <b>Solution Class:</b> [Growth of a Population](GrowthOfAPopulation.cs)
 * <b>Solved:</b> Thursday, June 14<sup>th</sup>, 2018
 
 Details:
