@@ -3,7 +3,7 @@
 Day #132: 
 
 * <b>Difficulty:</b> 8 kyu
-* <b>Solution Class:</b> [Simple Sum](SimpleSum.sql)
+* <b>Solution Class:</b> [Simple Sum](SUM.sql)
 * <b>Solved:</b> Thursday, June 14<sup>th</sup>, 2018
 
 Details:
