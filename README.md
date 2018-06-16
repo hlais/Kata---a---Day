@@ -1008,6 +1008,13 @@ https://www.codewars.com/users/hlais
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
   </tr>
   </tr>
+ <td>134</td>
+<td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+ <td><a href = "day027%20and%20OnWards/day027/day027/day134/NumbersInOrder/AreTheNumbersInOrder.md">Numbers In Order</a></td> 
+ <td> Friday, June 15<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
  
   </table>
 
