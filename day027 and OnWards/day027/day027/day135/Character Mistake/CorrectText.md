@@ -3,8 +3,8 @@
 Day #135: 
 
 * <b>Difficulty:</b> 8 kyu
-* <b>Solution Class:</b> [Correct Mistake](Growth%20of%20a%20Population.cs)
-* <b>Solved:</b> Sunday, June 17<sup>th</sup>, 2018
+* <b>Solution Class:</b> [Correct Mistake](Correct.cs)
+* <b>Solved:</b> Sunday, June 17<sup>th</sup>, 201Correct.cs8
 
 Details:
 
