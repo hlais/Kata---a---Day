@@ -1004,25 +1004,24 @@ https://www.codewars.com/users/hlais
    <td>134</td>
  <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
   <td><a href = "day027%20and%20OnWards/day027/day027/day134/LowerCase/SQL%20LowerCase.md">Lower Case</a></td> 
-  <td> Saturday, June 14<sup>th</sup>, 2018</td>
+  <td> Saturday, June 16<sup>th</sup>, 2018</td>
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
   </tr>
   </tr>
  <td>134</td>
 <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
  <td><a href = "day027%20and%20OnWards/day027/day027/day134/NumbersInOrder/AreTheNumbersInOrder.md">Numbers In Order</a></td> 
- <td> Friday, June 15<sup>th</sup>, 2018</td>
+ <td> Saturday, June 16<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
-  
-   <td>135</td>
-    <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
- <td><a href = "day027%20and%20OnWards/day027/day027/day135/Character%20Mistake/CorrectText.md">Correct Mistake</a></td> 
- <td> Sunday, June 17<sup>th</sup>, 2018</td>
+ <td>135</td>
+<td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+<td><a href = "day027%20and%20OnWards/day027/day027/day135/Character%20Mistake/CorrectText.md">Correct Mistake</a></td> 
+<td> Sunday, June 17<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
-  </tr>
-  </tr>
+</tr>
+</tr>
   
  <td>135</td>
  <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
@@ -1031,7 +1030,6 @@ https://www.codewars.com/users/hlais
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
   </tr>
   </tr>
-  
    <td>136</td>
 <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
  <td><a href = "day027%20and%20OnWards/day027/day027/day136/Fix%20String%20Case/Fix%20String%20Case.md">Fix String Case</a></td> 
@@ -1039,7 +1037,6 @@ https://www.codewars.com/users/hlais
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
   </tr>
-  
    <td>136</td>
  <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
   <td><a href ="day027%20and%20OnWards/day027/day027/day136/Where%20And%20Order%20By/Simple%20WHERE%20and%20ORDER%20BY.md">Distinct</a></td> 
@@ -1047,23 +1044,20 @@ https://www.codewars.com/users/hlais
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
   </tr>
   </tr>
-  
    <td>137</td>
 <td><img src="http://i.imgur.com/uu3Afqa.png" alt="3 kyu"/></td>
  <td><a href = "day027%20and%20OnWards/day027/day027/day137/Calculator/Calculator.md">Calculator</a></td> 
  <td> Tuesday, June 19<sup>th</sup>, 2018</td>
 <td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
-  </tr>
-  </tr>
-  
- <td>137</td>
- <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-  <td><a href ="day027%20and%20OnWards/day027/day027/day137/Min%20Max/Basics%20Simple%20MIN%20%20MAX.md">Distinct</a></td> 
-  <td> Tuesday, June 19<sup>th</sup>, 2018</td>
+</tr>
+</tr> 
+<td>137</td>
+<td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+<td><a href ="day027%20and%20OnWards/day027/day027/day137/Min%20Max/Basics%20Simple%20MIN%20%20MAX.md">Distinct</a></td> 
+<td> Tuesday, June 19<sup>th</sup>, 2018</td>
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
-  </tr>
-  </tr>
- 
-  </table>
+</tr>
+</tr>
+</table>
 
 
