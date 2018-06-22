@@ -9,7 +9,6 @@ namespace CodeWards7Kata
     {
         public static List<int> RemoveSmallest(List<int> numbers)
         {
-
             int smallestNumber = int.MaxValue;
             int indexOfSmallest = 0;
 
@@ -29,7 +28,6 @@ namespace CodeWards7Kata
             numbers.RemoveAt(indexOfSmallest);
 
             return numbers;
-          
         }
     }
 }
