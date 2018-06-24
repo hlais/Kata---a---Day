@@ -1067,10 +1067,26 @@ https://www.codewars.com/users/hlais
 </tr>
 </tr>
 
-<td>138</td>
+<td>139</td>
 <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
 <td><a href ="day027%20and%20OnWards/day027/day027/day139/Rounding%20Decimals.md">Rounding Decimals</a></td> 
-<td> Friday, June 22<sup>nd</sup>, 2018</td>
+<td> Saturday, June 23<sup>rd</sup>, 2018</td>
+<td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
+</tr>
+</tr>
+
+  <td>140</td>
+<td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+ <td><a href = "day027%20and%20OnWards/day027/day027/day140/Calculator/Count%20Smileys.md">Count Smileys</a></td> 
+ <td> Sunday, June 24<sup>th</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+  </tr>
+  </tr>
+
+<td>140</td>
+<td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+<td><a href ="day027%20and%20OnWards/day027/day027/day140/Find%20Active%20Students/Find%20Active%20Students.md">Find Active Students</a</td> 
+<td> Sunday, June 24<sup>th</sup>, 2018</td>
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
 </tr>
 </tr>
