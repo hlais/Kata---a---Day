@@ -1058,6 +1058,25 @@ https://www.codewars.com/users/hlais
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
 </tr>
 </tr>
+
+<td>138</td>
+<td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+<td><a href ="day027%20and%20OnWards/day027/day027/day138/RemoveTheMinimum/RemoveTheMinimum.md">Remove Minimum</a></td> 
+<td> Friday, June 22<sup>nd</sup>, 2018</td>
+<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
+</tr>
+</tr>
+
+<td>138</td>
+<td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+<td><a href ="day027%20and%20OnWards/day027/day027/day139/Rounding%20Decimals.md">Rounding Decimals</a></td> 
+<td> Friday, June 22<sup>nd</sup>, 2018</td>
+<td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
+</tr>
+</tr>
+
+
+
 </table>
 
 
