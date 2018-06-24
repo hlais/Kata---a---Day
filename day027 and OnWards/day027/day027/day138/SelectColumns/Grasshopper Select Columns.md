@@ -3,8 +3,8 @@
 Day #138: 
 
 * <b>Difficulty:</b> 8 kyu
-* <b>Solution Class:</b> [Basics: Simple Min/ Max](Select%20Columns.sql)
-* <b>Solved:</b> Wednesday, June 13<sup>th</sup>, 2018
+* <b>Solution Class:</b> [Select Columns](Select%20Columns.sql)
+* <b>Solved:</b>Friday, June 22<sup>nd</sup>, 2018
 
 Details:
 
