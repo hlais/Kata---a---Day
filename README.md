@@ -1103,7 +1103,7 @@ https://www.codewars.com/users/hlais
   </tr>
   <td>141</td>
 <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-<td><a href ="day027%20and%20OnWards/day027/day027/day141/Concatenating%20Columns/Concatenating%20Columns.md">Find Active Students</a</td> 
+<td><a href ="day027%20and%20OnWards/day027/day027/day141/Concatenating%20Columns/Concatenating%20Columns.md">Concatenating Columns</a</td> 
  <td> Tuesday, June 26<sup>th</sup>, 2018</td>
 <td><img src="https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/sql.png"></td>
 </tr>
