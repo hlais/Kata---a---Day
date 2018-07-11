@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CodeWars
+{
+    class Player_Rank_Up
+    {
+        public static Object PlayerRankUp(int points)
+        {
+            if (points >= 100)
+            {
+                return "Well done! You have advanced to the qualifying stage. Win 2 out of your next 3 games to rank up.";
+            }
+            else return false;
+        }
+    }
+}
