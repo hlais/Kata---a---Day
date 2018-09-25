@@ -1,4 +1,4 @@
-?<a href=https://github.com/hlais/Kata---a---Day><b>Back to README</b><a>
+<a href=https://github.com/hlais/Kata---a---Day><b>Back to README</b><a>
 
 Day #168: 
 
