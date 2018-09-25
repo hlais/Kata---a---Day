@@ -4,7 +4,7 @@ Day #168:
 
 * <b>Difficulty:</b> 8 kyu
 
-* <b>Solution Class:</b> [Check](SeatsInTheater.cs)
+* <b>Solution Class:</b> [Check](Check.cs)
 
 * <b>Solved:</b> Tuesday, September 25 <sup>th</sup>, 2018
 
