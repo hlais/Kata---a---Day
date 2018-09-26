@@ -3,9 +3,7 @@
 Day #169: 
 
 * <b>Difficulty:</b> 8 kyu
-
 * <b>Solution Class:</b> [Rental Car](Rental Car.cs)
-
 * <b>Solved:</b> Wednesday, September 26 <sup>th</sup>, 2018
 
 Details:
