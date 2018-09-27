@@ -3,9 +3,7 @@
 Day #170: 
 
 * <b>Difficulty:</b> 8 kyu
-
 * <b>Solution Class:</b> [super Size](SuperSize.cs)
-
 * <b>Solved:</b> Thursday, September 27 <sup>th</sup>, 2018
 
 Details:
