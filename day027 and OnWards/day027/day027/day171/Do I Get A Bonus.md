@@ -3,9 +3,7 @@
 Day #171: 
 
 * <b>Difficulty:</b> 8 kyu
-
 * <b>Solution Class:</b> [Do I get a bonus?](DoIGetBonus.cs)
-
 * <b>Solved:</b> Saturday, September 29 <sup>th</sup>, 2018
 
 Details:
