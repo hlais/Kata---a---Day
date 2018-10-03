@@ -3,9 +3,7 @@
 Day #172: 
 
 * <b>Difficulty:</b> 8 kyu
-
 * <b>Solution Class:</b> [Gross Hopper Summation](GrasshopperSummation.cs)
-
 * <b>Solved:</b> Wednesday, October 3 <sup>rd</sup>, 2018
 
 Details:
