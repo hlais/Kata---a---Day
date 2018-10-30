@@ -3,7 +3,7 @@
 Day #173: 
 
 * <b>Difficulty:</b> 8 kyu
-* <b>Solution Class:</b> [Beginner - Lost Without a Map](LostWithoutAMap.cs)
+* <b>Solution Class:</b> [Twice as Old](TwiceAsOld.cs)
 * <b>Solved:</b> Tuesday, October 30 <sup>th</sup>, 2018
 
 Details:
